@@ -1,6 +1,6 @@
 # CS3110 Final Project
 
-Please read INSTALL.txt for installation and usage instructions.
+This is a terminal based Chess game written in OCAML that recognizes legal chess moves, includes color customization, and features a scoring system. Please read INSTALL.txt for installation and usage instructions.
 
 Group Members:
 - Owen Chen (ojc7)
