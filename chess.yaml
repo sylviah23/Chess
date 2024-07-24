@@ -1,0 +1,34 @@
+---
+# Members of your group.
+group:
+  - name: Anjelica Bian
+    netid: yb265
+  - name: Jeanie Chan
+    netid: jc2885
+  - name: Owen Chen
+    netid: ojc7
+  - name: Sylvia Han
+    netid: sjh326
+  - name: Nancy Zheng
+    netid: njz9
+# Your PM.
+pm:
+  name: Chloe Chan
+  netid: cac499
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Pithy title
+title: "J.A.S.O.N.'s Favorite Game"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/ojc7/3110_final_project"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: >
+  J.A.S.O.N. loves playing chess, and hopes everyone enjoys playing it as well. 
+  This chess game supports two players and follows the normal rules of chess. 
+  Users will be prompted to make a move again if their move was invalid.
+  We have implemented user friendly functionality that helps with gameplay, 
+  by suggesting possible legal moves if what the user tried was illegal. 
+  This game is played via the terminal and users can enter extra command line
+  arguments to customize the color of the board.

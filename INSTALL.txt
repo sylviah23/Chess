@@ -1,0 +1,10 @@
+To run our demo, first download our project files. 
+We use ANSITerminal, so please use opam to install that:
+$ opam update
+$ opam upgrade
+$ opam install ansiterminal
+
+cd to the project directory in terminal. 
+Then run dune exec bin/main.exe. 
+Then, our demo will start running.
+You can start moving the chess pieces now :)
